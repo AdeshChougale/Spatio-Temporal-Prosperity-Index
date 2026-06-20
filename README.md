@@ -58,8 +58,8 @@ Because the definition of "prosperity" shifts geographically (e.g., Midtown conc
 
 ### 🗺️ Live Interactive Maps (Web Previews)
 Click the links below to interact with the full Folium dashboards directly in your browser:
-* **[🌍 View Full NYC Prosperity & Drift Map](https://github.com/AdeshChougale/Spatio-Temporal-Prosperity-Index/blob/main/assets/index.htm)**
-* **[🎯 View Top 10 Neighborhoods Highlight Map](https://github.com/AdeshChougale/Spatio-Temporal-Prosperity-Index/blob/main/assets/index_top10.htm)**
+* **[🌍 View Full NYC Prosperity & Drift Map](https://adeshchougale.github.io/Spatio-Temporal-Prosperity-Index/assets/index.htm)**
+* **[🎯 View Top 10 Neighborhoods Highlight Map](https://adeshchougale.github.io/Spatio-Temporal-Prosperity-Index/assets/index_top10.htm)**
 
 ---
 
