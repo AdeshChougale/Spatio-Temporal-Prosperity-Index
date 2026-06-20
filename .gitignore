@@ -1,0 +1,6 @@
+# Ignore Google Earth Engine private credentials
+notebooks/gee_credentials.json
+notebooks/.earthengine/
+
+
+.DS_Store

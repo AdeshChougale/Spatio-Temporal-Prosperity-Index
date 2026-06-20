@@ -1,0 +1,13 @@
+apache-sedona==1.6.1
+h3>=4.0.0
+osmnx>=1.9.0
+geemap>=0.30.0
+earthengine-api>=0.1.400
+geopandas>=0.14.0
+folium>=0.17.0
+branca>=0.7.0
+scipy>=1.12.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
