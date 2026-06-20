@@ -56,7 +56,10 @@ Because the definition of "prosperity" shifts geographically (e.g., Midtown conc
 4. **Statistical Fusion:** Combine economic, social, and physical vectors. Execute GWPCA and Temporal Drift math.
 5. **Interactive Rendering:** Output a dual-layer, high-contrast Folium dashboard to visualize localized prosperity and 7-year urban transformation.
 
-*(Insert your Folium Map Screen Recording/GIF here)*
+### 🗺️ Live Interactive Maps (Web Previews)
+Click the links below to interact with the full Folium dashboards directly in your browser:
+* **[🌍 View Full NYC Prosperity & Drift Map](https://github.com/AdeshChougale/Spatio-Temporal-Prosperity-Index/blob/main/assets/index.htm)**
+* **[🎯 View Top 10 Neighborhoods Highlight Map](https://github.com/AdeshChougale/Spatio-Temporal-Prosperity-Index/blob/main/assets/index_top10.htm)**
 
 ---
 
