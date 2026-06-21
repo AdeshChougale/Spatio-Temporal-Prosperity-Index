@@ -9,6 +9,7 @@ Instead of relying solely on traditional economic indicators (like housing price
 1. **Economic Gravity:** Property valuation via Airbnb listing data.
 2. **Social Infrastructure:** Amenity accessibility (gyms, pubs, transit) extracted live via the OpenStreetMap API.
 3. **Physical Environment:** High-resolution, 64-dimensional urban land classifications extracted directly from Google Earth Engine's enterprise AlphaEarth (`SATELLITE_EMBEDDING/V1/ANNUAL`) dataset.
+<img width="5092" height="5948" alt="NewFlowChartOfSTPI drawio" src="https://github.com/user-attachments/assets/98eecde3-112d-42b9-9ad5-d48ab3859a76" />
 
 ---
 
